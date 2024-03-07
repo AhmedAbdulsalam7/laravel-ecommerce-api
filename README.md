@@ -19,7 +19,7 @@ This project is a Laravel-based E-Commerce API that includes user authentication
 ## Installation
 
 1. Clone the repository:
-   git clone gh repo clone AhmedAbdulsalam7/laravel-ecommerce-api
+   git clone AhmedAbdulsalam7/laravel-ecommerce-api
 2. cd laravel-ecommerce-api
 3. Install dependencies:
    composer install
