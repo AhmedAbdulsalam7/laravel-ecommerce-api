@@ -13,7 +13,6 @@ This project is a Laravel-based E-Commerce API that includes user authentication
   Products
 - Show Different Product Prices
 - Usage
-- Contributing
 
 
 ## Installation
